@@ -54,7 +54,7 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: lumen
     toc: true
 bibliography: references.bib
 
