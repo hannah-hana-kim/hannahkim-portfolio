@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 2850,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Brave's AI assistant comes to its desktop browser",
+            "description": "Brave joins the growing list of browsers that come with built-in generative AI assistants. The open source browser developer has started rolling out an update for Brave on desktop, which gives users access to its AI assistant Leo. Brave introduced Leo through…",
+            "url": "https://www.engadget.com/braves-ai-assistant-comes-to-its-desktop-browser-160010918.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hy1VqimfFsap.._lGORMzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-06/fd163430-d28b-11eb-b377-c0e600bf35f0",
+            "publishedAt": "2023-11-02T16:00:10Z",
+            "content": "Brave joins the growing list of browsers that come with built-in generative AI assistants. The open source browser developer has started rolling out an update for Brave on desktop, which gives users … [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Will Knight",
+            "title": "Amazon’s Answer to ChatGPT Is a Workplace Assistant Called Q",
+            "description": "Amazon has developed a generative AI helper that codes, manages cloud software, and powers business apps. The company has also developed new silicon for AI.",
+            "url": "https://www.wired.com/story/amazon-q-ai-chatbot-aws/",
+            "urlToImage": "https://media.wired.com/photos/65663914add2c9c5db31dddc/191:100/w_1280,c_limit/AWS-2023-AI-Business.jpg",
+            "publishedAt": "2023-11-28T19:14:07Z",
+            "content": "Q uses a range of different artificial intelligence models under the hood, including Amazons own Titan large language model and also LLMs built by Cohere and Anthropic, two well-funded startups compe… [+2141 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Google is going to let you annotate search results",
+            "description": "Google’s new “Notes” experiment will let users add annotations to search results. The company is also adding a way to follow specific queries.",
+            "url": "https://www.theverge.com/2023/11/15/23961289/google-search-labs-notes-following-perspectives",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZtCF0RGneZml3juzavvw2_dAa5M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016883/STK093_Google_06.jpg",
+            "publishedAt": "2023-11-15T15:00:00Z",
+            "content": "Google is going to let you annotate search results\r\nGoogle is going to let you annotate search results\r\n / As part of a new opt-in experiment, users will be able to add notes to links they see in sea… [+3785 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "US Senator calls for the public release of AT&T ‘Hemisphere’ surveillance records",
+            "description": "US Senator Ron Wyden wants the public to know about the details surrounding the long-running Hemisphere phone surveillance program. Wyden has written US Attorney General Merrick Garland a letter (PDF), asking him to release additional information about the pr…",
+            "url": "https://www.engadget.com/us-senator-calls-for-the-public-release-of-att-hemisphere-surveillance-records-083627787.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q1Lz6jd2UrgxbidSMQ6lXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/ff885a20-883e-11ee-beef-4c3432c212be",
+            "publishedAt": "2023-11-21T08:36:27Z",
+            "content": "US Senator Ron Wyden wants the public to know about the details surrounding the long-running Hemisphere phone surveillance program. Wyden has written US Attorney General Merrick Garland a letter (PDF… [+2800 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Megan Farokhmanesh",
+            "title": "How 'Baldur's Gate 3' Became the Horniest Game of the Year",
+            "description": "Ever since Larian Studios released 'Baldur's Gate 3' in August, players have been finding new, inventive, and incredibly fast ways to get it on. When it lands on Xbox, the sexiness is sure to continue.",
+            "url": "https://www.wired.com/story/baldurs-gate-3-horny-sex-speedruns-bug/",
+            "urlToImage": "https://media.wired.com/photos/64e6726dc0719b90f809d6bc/191:100/w_1280,c_limit/Baldurs-Gate-3-Sex-Speedruns-Games.jpg",
+            "publishedAt": "2023-11-26T12:00:00Z",
+            "content": "In a subreddit dedicated to Baldurs Gate 3, Larian Studios critically acclaimed Dungeons &amp; Dragonsbased role-playing game, a player posed an important question: I know you probably heard this her… [+2655 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Maxwell Zeff",
+            "title": "Generating AI Images Uses as Much Energy as Charging Your Phone, Study Finds",
+            "description": "Creating images with generative AI could use as much energy as charging your smartphone according to a new study Friday that measures the environmental impact of generative AI models for the first time. Popular models like ChatGPT’s Dall-E and Midjourney may …",
+            "url": "https://gizmodo.com/ai-images-as-much-energy-as-charging-phone-hugging-face-1851065091",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/bf77f98531c116f219f906c2e144049d.jpg",
+            "publishedAt": "2023-12-01T15:00:00Z",
+            "content": "Creating images with generative AI could use as much energy as charging your smartphone according to a new study Friday that measures the environmental impact of generative AI models for the first ti… [+2431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Nickolas Diaz)",
+            "title": "Google Bard lets users dive into YouTube videos with follow-up questions",
+            "description": "Google Bard has updated its YouTube extension potential, delivering a more robust learning experience.",
+            "url": "https://www.androidcentral.com/apps-software/google-bard-updates-youtube-extension",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8E5DW9iESXdjPbaXZMUUR5-1200-80.jpg",
+            "publishedAt": "2023-11-22T19:45:26Z",
+            "content": "<ul><li>Google is updating its YouTube extension in Bard to provide more context about the videos users are watching.</li><li>Bard can now answer specific questions about a video that a user may have… [+2404 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Harvard Business Review"
+            },
+            "author": "Colin W.P. Lewis, Agnieszka Dziewulska",
+            "title": "Improve Your Company’s Use of AI with a Structured Approach to Prompts",
+            "description": "Despite their power and seemingly intuitive interface, it can be hard for new users to really put AI’s capabilities to work. Companies need to invest in both prompting and fine tuning. The authors suggest a framework for doing so: building an internal library…",
+            "url": "https://hbr.org/2023/11/improve-your-companys-use-of-ai-with-a-structured-approach-to-prompts",
+            "urlToImage": "https://hbr.org/resources/images/article_assets/2023/11/Nov23_14_1443334669.jpg",
+            "publishedAt": "2023-11-14T16:00:00Z",
+            "content": "Despite their power and seemingly intuitive interface, it can be hard for new users to really put AI’s capabilities to work. Companies need to invest in both prompting and fine tuning. The authors su… [+359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Thomas Germain",
+            "title": "Google Shopping Will Hallucinate AI Products and Then Find You Something Real to Buy",
+            "description": "Here’s an AI tool you probably hadn’t considered. Google’s AI-powered Search Generative Experience (SGE) is getting a slew of updates this December, including a feature that lets you dream up a product out of thin air with artificial intelligence, and then se…",
+            "url": "https://gizmodo.com/google-shopping-ai-search-generative-experience-1851028975",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7c347c216e87658c03d2bb8538efa06e.jpg",
+            "publishedAt": "2023-11-16T20:29:00Z",
+            "content": "Heres an AI tool you probably hadnt considered. Googles AI-powered Search Generative Experience (SGE) is getting a slew of updates this December, including a feature that lets you dream up a product … [+3118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mack DeGeurin",
+            "title": "New Google Trial Docs May Explain Why Search Sucks So Bad Now",
+            "description": "The Department of Justice and Google just rumbled their way past the halfway point of a landmark antitrust trial vying to answer a potentially industry-rupturing question: Does Google maintain its ironfisted stranglehold over internet search results because o…",
+            "url": "https://gizmodo.com/new-google-trial-docs-explain-why-search-is-worse-1850982736",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ec0d0c3a32872a10e1226b1bc59773ea.jpg",
+            "publishedAt": "2023-11-02T14:10:00Z",
+            "content": "The Department of Justice and Google just rumbled their way past the halfway point of a landmark antitrust trial vying to answer a potentially industry-rupturing question: Does Google maintain its ir… [+10179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Henrikkarlsson.xyz"
+            },
+            "author": "Henrik Karlsson",
+            "title": "A blog post is a long and complex search query to find people",
+            "description": "When writing in public, there is a common idea that you should make it accessible. This is a left over from mass media.",
+            "url": "https://www.henrikkarlsson.xyz/p/search-query",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0dbceaf-9fe3-4673-b229-bfb1b5cf8cad_800x588.jpeg",
+            "publishedAt": "2023-11-04T02:02:56Z",
+            "content": "I was born in July 1989, which means I am of the last generation who will remember the time before the internet. The cables and data centers and hyperlinks grew up around me; they grew with me. I fin… [+18903 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yummymelon.com"
+            },
+            "author": null,
+            "title": "Running SQL Queries on Org Tables",
+            "description": "One of the best things in Org Mode are tables and if you know SQL, you have at your disposal the ability to process your tables like a SQL database. Even better, you can run a SQL query on...",
+            "url": "http://yummymelon.com/devnull/running-sql-queries-on-org-tables.html",
+            "urlToImage": "http://yummymelon.com/devnull/images/opengraph-default.jpg",
+            "publishedAt": "2023-11-28T00:26:30Z",
+            "content": "One of the best things in Org Mode are tables and if you know SQL, you have at your disposal the ability to process your tables like a SQL database. Even better, you can run a SQL query on your table… [+3818 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kevin Purdy",
+            "title": "Apple slides from 2013 skewer Android as “a massive tracking device”",
+            "description": "But Apple also wanted to know what results users clicked on Google from iPhones.",
+            "url": "https://arstechnica.com/tech-policy/2023/11/apple-called-android-a-massive-tracking-device-in-a-2013-presentation/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Screenshot-2023-11-02-at-2.51.18 PM-760x380.png",
+            "publishedAt": "2023-11-02T20:13:20Z",
+            "content": "Enlarge/ It just reads different in that typeface.\r\n16 with \r\n\"Here is [sic] the latest slides we have on privacy,\" Senior Vice President of Services Eddy Cue wrote to CEO Tim Cook and then-SVP of Ma… [+4575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New York Review of Books"
+            },
+            "author": "Stephen Barkway, Stuart N. Clarke",
+            "title": "Query",
+            "description": "We are collecting for publication letters from Virginia Woolf that are not in the six-volume edition edited by Nigel Nicolson and Joanne Trautmann (1975–1980). If readers are aware of any such letters in private hands or in libraries or institutions (other th…",
+            "url": "https://www.nybooks.com/articles/2023/12/07/query/",
+            "urlToImage": "https://www.nybooks.com/wp-content/uploads/2020/05/nybooks-t.png",
+            "publishedAt": "2023-11-16T12:30:00Z",
+            "content": "We are collecting for publication letters from Virginia Woolf that are not in the six-volume edition edited by Nigel Nicolson and Joanne Trautmann (19751980). If readers are aware of any such letters… [+243 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Insider Inc.",
+            "title": "Behind the Benefit",
+            "description": "Concerned about recent inflation rates, employees are looking for more effective and affordable healthcare options.",
+            "url": "https://www.businessinsider.com/sc/how-new-strategies-in-healthcare-may-help-improve-access",
+            "urlToImage": "https://media.tbistatic.com/bistudios/_00/dev/uhc/behind_the_benefit/UHC_interactive_4x3.png",
+            "publishedAt": "2023-11-28T17:02:26Z",
+            "content": "How new strategies in healthcare may help improve access and lower costs <!-- Meta data --> <!-- Browser favicons --><!-- Google Tag Manager - for BI use GTM-NS64GV - for Insider use GTM-K2K9CK --> (… [+2039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Vishnu Sarangapurkar)",
+            "title": "Google Keep will now store your shopping lists and other Assistant notes",
+            "description": "Google Assitant is seeing changes, and Google Keep is gaining features.",
+            "url": "https://www.androidcentral.com/apps-software/google-assistant-shopping-notes-lists-migrating-to-google-keep",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XDvE7ZVwexF9QcwqCiHXNP-1200-80.jpg",
+            "publishedAt": "2023-11-06T17:55:53Z",
+            "content": "<ul><li>Google Keep will keep your Shopping List and \"Notes &amp; Lists\" from the Assitant app.</li><li>The current aforementioned lists can be transferred automatically (under some conditions).</li>… [+2375 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Billy Steele",
+            "title": "JBL Authentics 300 review: Alexa and Google Assistant coexisting",
+            "description": "Several companies have taken shots at Sonos over the years when it comes to multi-room audio and self-tuning speakers with built-in voice assistants. These devices are a lot more common in 2023 than they used to be, so there’s a whole host of options if you’r…",
+            "url": "https://www.engadget.com/jbl-authentics-300-review-alexa-and-google-assistant-coexisting-190036434.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/3yeip.1jGEvqjQdRU4LKzA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-11/48712be0-8fab-11ee-bda7-cdf124ec5567.cf.jpg",
+            "publishedAt": "2023-11-30T19:00:36Z",
+            "content": "Several companies have taken shots at Sonos over the years when it comes to multi-room audio and self-tuning speakers with built-in voice assistants. These devices are a lot more common in 2023 than … [+9210 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Resteasyapi.com"
+            },
+            "author": null,
+            "title": "Building a starter pack for an API-as-a-Service",
+            "description": "The 'as-a-Service' to your API",
+            "url": "https://www.resteasyapi.com/",
+            "urlToImage": "https://www.resteasyapi.com/public/images/Frame_33.png?_wwcv=7",
+            "publishedAt": "2023-11-20T20:12:06Z",
+            "content": "No need to reinvent the wheel with RestEasy. We'll handle security and query validation for every single request that we process, dramatically reducing the amount of code you have to write. Less code… [+36 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kevin Purdy",
+            "title": "The “Windows App” for Mac, iOS, and browsers is a fancy remote desktop, for now",
+            "description": "Microsoft wants you in Windows, whether you're on iPad, Android, or Chrome OS.",
+            "url": "https://arstechnica.com/information-technology/2023/11/the-windows-app-for-mac-ios-and-browsers-is-a-fancy-remote-desktop-for-now/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/Screenshot-2023-11-16-121204-760x380.png",
+            "publishedAt": "2023-11-16T17:42:41Z",
+            "content": "Enlarge/ If you have a bunch of Windows systems, Microsoft now has an app for that. It's called \"Windows App.\" Microsoft just has a certain way with naming things.\r\n5 with \r\nIt feels strange to say i… [+2761 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pgadmin.org"
+            },
+            "author": "Dave Page",
+            "title": "PgAdmin 4 v8.0",
+            "description": "pgAdmin - PostgreSQL Tools for Windows, Mac, Linux and the Web",
+            "url": "https://www.pgadmin.org/news/#92",
+            "urlToImage": null,
+            "publishedAt": "2023-11-29T08:27:06Z",
+            "content": "The pgAdmin Development Team is pleased to announce pgAdmin 4 version 8.0. This release of pgAdmin 4 includes 29 bug fixes and new features. For more details please see the release notes.\r\nNote:\r\nThi… [+114975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Al Williams",
+            "title": "How to Talk to Your Scope",
+            "description": "It used to be only high-end test equipment that had some sort of remote control port. These days, though, they are quite common. Historically, test gear used IEEE-488 (also known as GPIB or, from t…",
+            "url": "https://hackaday.com/2023/11/21/how-to-talk-to-your-scope/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2023/11/Sine_wave_10_kHz_displayed_on_analog_oscilloscope_featured.png",
+            "publishedAt": "2023-11-21T18:00:14Z",
+            "content": "It used to be only high-end test equipment that had some sort of remote control port. These days, though, they are quite common. Historically, test gear used IEEE-488 (also known as GPIB or, from the… [+8918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Maxwell William",
+            "title": "Create your own AI: ChatGPT Plus unveils customizable AI chatbots",
+            "description": "OpenAI has rolled out a groundbreaking update for ChatGPT Plus that could revolutionize the way users interact with AI chatbots. […]\nThe post Create your own AI: ChatGPT Plus unveils customizable AI chatbots appeared first on ReadWrite.",
+            "url": "https://readwrite.com/create-your-own-ai-chatgpt-plus-unveils-customizable-ai-chatbots/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/10/AI-Research.jpg",
+            "publishedAt": "2023-11-07T16:50:55Z",
+            "content": "OpenAI has rolled out a groundbreaking update for ChatGPT Plus that could revolutionize the way users interact with AI chatbots. According to Windows Central, the new feature allows members to create… [+2302 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Simonwillison.net"
+            },
+            "author": null,
+            "title": "Summing columns in remote Parquet files using DuckDB",
+            "description": "vivym/midjourney-messages on Hugging Face is a large (~8GB) dataset consisting of 55,082,563 Midjourney images - each one with the prompt and a URL to the image hosted on Discord.",
+            "url": "https://til.simonwillison.net/duckdb/remote-parquet",
+            "urlToImage": "https://s3.amazonaws.com/til.simonwillison.net/f299bc4f26dd4ddcbc8ac72a7199e49c.jpg",
+            "publishedAt": "2023-11-14T23:03:08Z",
+            "content": "vivym/midjourney-messages on Hugging Face is a large (~8GB) dataset consisting of 55,082,563 Midjourney images - each one with the prompt and a URL to the image hosted on Discord.\r\nTLDR: Each record … [+16843 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cohere.com"
+            },
+            "author": "Meor Amer",
+            "title": "Text Embeddings Visually Explained (2022)",
+            "description": "We take a visual approach to gain an intuition behind text embeddings, what use cases they are good for, and how they can be customized using finetuning.",
+            "url": "https://txt.cohere.com/text-embeddings/",
+            "urlToImage": "https://txt.cohere.com/content/images/2022/06/1-feat.png",
+            "publishedAt": "2023-11-14T21:44:22Z",
+            "content": "When you hear about large language models (LLM), probably the first thing that comes to mind is the text generation capability, such as writing an essay or creating a marketing copy.\r\nBut another thi… [+14310 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "sendicott47@outlook.com (Sean Endicott)",
+            "title": "Bing search, not Bing Chat, just got a new AI feature — here's how generative AI captions will change how you search the web",
+            "description": "Microsoft just rolled out generative AI captions to Bing. The feature scans webpages and generates contextual captions based on search queries to improve search results.",
+            "url": "https://www.windowscentral.com/software-apps/bing/bing-search-not-bing-chat-just-got-a-new-ai-feature-heres-how-generative-ai-captions-will-change-how-you-search-the-web",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/3tegbbWz5uxkm2AaxpUio9-1200-80.jpg",
+            "publishedAt": "2023-11-20T14:10:09Z",
+            "content": "<ul><li>Microsoft announced generative AI captions for Bing recently.</li><li>The feature uses artificial intelligence to summarize the contents of a page.</li><li>Those who manage websites can opt o… [+1785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pganalyze.com"
+            },
+            "author": null,
+            "title": "An automatic indexing system for Postgres",
+            "description": "The pganalyze Indexing Engine simulates hundreds of possible combinations to recommend missing Postgres indexes using its 'What if?' analysis.",
+            "url": "https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine",
+            "urlToImage": "https://pganalyze.com/static/8f7770e2f25dd9ecfe1e13ffbbb5863d/fcb2f/automatic_indexing_system_postgres_pganalyze_indexing_engine.jpg",
+            "publishedAt": "2023-11-17T06:38:18Z",
+            "content": "Indexing is hard. Most people who have worked with databases will agree that regardless of how you do it, creating the right indexes on your database requires thought and detailed analysis. It's not … [+22567 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Mia Jankowicz",
+            "title": "Video seems to show Hamas fighter running up to an Israeli tank, planting an explosive on it, then shooting it",
+            "description": "The footage release by Hamas' militant wing gives a sense of the guerrilla tactics the group is deploying against Israeli's tanks.",
+            "url": "https://www.businessinsider.com/video-hamas-fighter-plants-device-israel-tank-then-shoots-2023-11",
+            "urlToImage": "https://i.insider.com/6544fc4e3cc84b4dfafbb91a?width=1200&format=jpeg",
+            "publishedAt": "2023-11-03T13:57:40Z",
+            "content": "A still from footage released by Hamas' Al-Qassam brigade on November 2 2023, showing the moment a fighter places a device on an Israeli tank.Al-Qassam Brigades/Telegram\r\n<ul><li>Hamas' fighters rele… [+3669 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "Mauro Huculak",
+            "title": "How to organize tabs on Microsoft Edge with Copilot on Windows 11",
+            "description": "Copilot on Microsoft Edge can also help you customize the experience and change settings, such as organizing your tabs and turning on or off features like vertical tabs. Here's how.",
+            "url": "https://www.windowscentral.com/software-apps/windows-11/how-to-organize-tabs-on-microsoft-edge-with-copilot-on-windows-11",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uqMQ5RT7dQK4tL6d5PP6oh-1200-80.jpg",
+            "publishedAt": "2023-11-08T13:00:49Z",
+            "content": "On Microsoft Edge, alongside the ability to use Copilot to compose different types of content, get insights from pages, and ask the chatbot AI to summarize content from the web, it's also possible to… [+2339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Matt G. Southern",
+            "title": "Bing Employs GPT-4 To Write Custom Search Snippets via @sejournal, @MattGSouthern",
+            "description": "Bing launches AI-powered captions for search results to provide more informative snippets and enhance the search experience.\nThe post Bing Employs GPT-4 To Write Custom Search Snippets appeared first on Search Engine Journal.",
+            "url": "https://www.searchenginejournal.com/bing-employs-gpt-4-to-write-custom-search-snippets/501474/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/11/img_2023-11-15-183105-655554e46ecc4-sej.jpeg",
+            "publishedAt": "2023-11-15T23:34:42Z",
+            "content": "Microsoft announced the launch of generative AI captions in Bing – an AI-powered feature designed to create more informative snippets for search engine results pages (SERPs).\r\nFor publishers and SEO … [+1932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smashingmagazine.com"
+            },
+            "author": "hello@smashingmagazine.com (Ganesh Dahal)",
+            "title": "WordPress Playground: From 5-Minute Install To Instant Spin-Up",
+            "description": "WordPress Playground began as an experiment to see what a self-hosted WordPress experience might look like without the requirement of having to actually install WordPress. A year later, the experiment has evolved into a full-fledged project. Ganesh Dahal demo…",
+            "url": "https://www.smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/",
+            "urlToImage": "https://files.smashing.media/articles/wordpress-playground-5-minute-install-instant-spin-up/wordpress-playground-5-minute-install-instant-spin-up.jpg",
+            "publishedAt": "2023-11-09T12:00:00Z",
+            "content": "Many things have changed in WordPress over the years, but installation has largely remained the same: download WordPress, drop it on a server, create a database, sprinkle in some configuration, and p… [+32084 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Planetscale.com"
+            },
+            "author": "Vitess Engineering Team",
+            "title": "Vitess 18",
+            "description": "Vitess 18 is now generally available, with a number of new enhancements designed to improve usability, performance, and MySQL compatibility.",
+            "url": "https://planetscale.com/blog/announcing-vitess-18",
+            "urlToImage": "https://planetscale.com/assets/blog/content/announcing-vitess-18/vitess-18-social.jpg",
+            "publishedAt": "2023-11-07T17:55:06Z",
+            "content": "Vitess 18 is now generally available, with a number of new enhancements designed to improve usability, performance, and MySQL compatibility.\r\nIn the past, foreign keys had to be managed outside Vites… [+3368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Ryan Jones",
+            "title": "SEO Is Down, Help! A Guide To Diagnosing SEO Traffic Drops via @sejournal, @RyanJones",
+            "description": "Discover why your SEO traffic is plummeting month by month. Explore essential diagnostic steps to recover lost rankings and satisfy anxious clients.\nThe post SEO Is Down, Help! A Guide To Diagnosing SEO Traffic Drops appeared first on Search Engine Journal.",
+            "url": "https://www.searchenginejournal.com/a-guide-to-diagnosing-seo-traffic-drops/498110/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/10/seo-traffic-drop-6524ff04f24ff-sej.png",
+            "publishedAt": "2023-11-10T09:15:17Z",
+            "content": "Today’s Ask an SEO question is a common one, both from SEO pros and from clients.\r\nI’m going to focus more on the first part: What causedi my traffic to drop month over month?\r\nHere’s the full questi… [+7305 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "FRANCES D'EMILIO Associated Press",
+            "title": "Pope Francis says he has a lung inflammation but will go to Dubai this week for a climate conference",
+            "description": "But he will go later this week to Dubai for a climate change conference.",
+            "url": "https://abcnews.go.com/International/wireStory/pope-francis-lung-inflammation-dubai-week-climate-conference-105165995",
+            "urlToImage": "https://i.abcnewsfe.com/a/9958dfc7-a2de-4aa6-a925-5447f5cb0bcf/wirestory_64a98163770508ad804495cb62f92d64_16x9.jpg?w=992",
+            "publishedAt": "2023-11-26T20:58:22Z",
+            "content": "VATICAN CITY -- VATICAN CITY (AP) Pope Francis on Sunday revealed that he has a lung inflammation but will go later this week to Dubai to address the climate change conference. \r\nFrancis skipped his … [+2184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Tyler Cowen",
+            "title": "EconGoat for Claude 2.1",
+            "description": "Claude 2’s large context window and easy file upload feature have made this one of the best LLMs. As of November 21, 2023, Anthropic’s Claude 2.1 has the largest context window of any of the leading LLMs. Paid users can upload and query up to around 150,000 w…",
+            "url": "https://marginalrevolution.com/marginalrevolution/2023/11/econgoat-for-claude-2-1.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2023-11-26T16:16:35Z",
+            "content": "As of November 21, 2023, Anthropic’s Claude 2.1 has the largest context window of any of the leading LLMs. Paid users can upload and query up to around 150,000 words of text, more than enough to fit … [+136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "Mauro Huculak",
+            "title": "How to use Copilot to find products on Microsoft Shopping quickly",
+            "description": "Microsoft introduced Copilot for Microsoft Shopping to speed up the process of finding online products at the best price, and here's how to use the feature.",
+            "url": "https://www.windowscentral.com/software-apps/windows-11/how-to-use-copilot-to-find-products-on-microsoft-shopping-quickly",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/m4vNg7x5dVAZCWz2xYMAH6-1200-80.jpg",
+            "publishedAt": "2023-11-17T13:00:42Z",
+            "content": "Alongside adding Copilot to Windows 11 and the Edge browser, Microsoft is also bringing the chatbot AI to the Microsoft Shopping (formerly Bing Shopping) experience to help you speed up the process o… [+3288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "NeumTry",
+            "title": "Show HN: Neum AI – Open-source large-scale RAG framework",
+            "description": "Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale. - GitHub - NeumTry/NeumAI: Neum AI is a best-in-class framework to manage the cr...",
+            "url": "https://github.com/NeumTry/NeumAI",
+            "urlToImage": "https://opengraph.githubassets.com/65ab468b2931689959eac4966a889643fd500e1545121811517fd32d027f2a95/NeumTry/NeumAI",
+            "publishedAt": "2023-11-21T19:20:29Z",
+            "content": "Neum AI is a data platform that helps developers leverage their data to contextualize Large Language Models through Retrieval Augmented Generation (RAG) This includes\r\nextracting data from existing d… [+3228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Googleblog.com"
+            },
+            "author": "Unknown",
+            "title": "Improved search query suggestions in Google Chat web",
+            "description": "What’s changing In conjunction with recent updates to search in Google Chat , we’re introducing enhanced search query suggestions, a feature...",
+            "url": "http://workspaceupdates.googleblog.com/2023/11/mproved-search-query-suggestions-in-chat-web.html",
+            "urlToImage": "http://2.bp.blogspot.com/-7bZ5EziliZQ/VynIS9F7OAI/AAAAAAAASQ0/BJFntXCAntstZe6hQuo5KTrhi5Dyz9yHgCK4B/s1600/googlelogo_color_200x200.png",
+            "publishedAt": "2023-11-17T21:15:00Z",
+            "content": "What’s changingIn conjunction with recent updates to search in Google Chat, we’re introducing enhanced search query suggestions, a feature already available on mobile, that helps you find the right m… [+999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Googleblog.com"
+            },
+            "author": "Android Developers",
+            "title": "Alpha Release of Telecom Library",
+            "description": "News and insights on the Android platform, developer tools, and events.",
+            "url": "https://android-developers.googleblog.com/2023/11/alpha-release-of-telecom-library.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmKVdAdK36Hxu7AqPm-krADYNlMWsXXeoWQ-rJrohCGJn-4iVTKKHs_w5QnurnW50QjdZrXr0GIKSrtHkUPTLIgTc2LQglNm1OlU8T47B1SoRZ5rBci_ym_4Iki6_e9HnTyVFS-iK3rUy5ICofOahLoVh83Zv1LTt86PHSSIRUyL1XxhSPysnpwts4bY0/s1600/Android--Blog-Telecom-Alpha-release-Social%20%281%29.png",
+            "publishedAt": "2023-11-02T22:00:00Z",
+            "content": "Posted by Luke Hopkins - Developer Relations Engineer\n\n\n\nToday we’re thrilled to announce that the Telecom jetpack library is now in alpha for developers who already have or are interested in creatin… [+5952 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Netflixtechblog.com"
+            },
+            "author": "Netflix Technology Blog",
+            "title": "Streaming SQL in Data Mesh",
+            "description": "Learn how Netflix is leveraging Apache Flink SQL to build a managed Stream Processing Platform to help engineers move and transform data.",
+            "url": "https://netflixtechblog.com/streaming-sql-in-data-mesh-0d83f5a00d08",
+            "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*VxZlXPDb8-d7Xf4kfSulnw.png",
+            "publishedAt": "2023-11-03T21:48:50Z",
+            "content": "By keeping the logic of individual Processors simple, it allowed them to be reusable so we could centrally manage and operate them at scale. It also allowed them to be composable, so users could comb… [+4158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Artofmanliness.com"
+            },
+            "author": "Brett & Kate McKay",
+            "title": "Odds & Ends: November 3, 2023",
+            "description": "End by Explosions in the Sky. I first discovered the instrumental rock band Explosions in the Sky from my favorite television show of all time: Friday Night Lights. I love the way their moody and atmospheric songs contain what the band calls “cathartic mini-s…",
+            "url": "https://www.artofmanliness.com/odds-ends/odds-ends-november-3-2023/",
+            "urlToImage": "https://content.artofmanliness.com/uploads/2023/01/Odds-and-Ends-no-logo-header-1.jpg",
+            "publishedAt": "2023-11-03T19:07:02Z",
+            "content": "End by Explosions in the Sky. I first discovered the instrumental rock band Explosions in the Sky from my favorite television show of all time: Friday Night Lights. I love the way their moody and atm… [+2554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Shelley Walsh",
+            "title": "How To Rank On Google (According To Danny Sullivan At Google) via @sejournal, @theshelleywalsh",
+            "description": "Gain more insight into Google's ranking algorithm with insights from Danny Sullivan. Learn to balance SEO advice while prioritizing user satisfaction for optimal search results.\nThe post How To Rank On Google (According To Danny Sullivan At Google) appeared f…",
+            "url": "https://www.searchenginejournal.com/how-to-rank-on-google/502095/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/11/how-to-rank-better-on-google-655f07aa8217b-sej.png",
+            "publishedAt": "2023-11-28T15:30:16Z",
+            "content": "The SEO industry was founded on a strong community of knowledge sharing between SEO pros; mostly about how to get top ranking on Google.\r\nTapping into this, Google realized that working ‘with’ the SE… [+8982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Roger Montti",
+            "title": "Vulnerability In Fluent Forms Contact Form WordPress Plugin via @sejournal, @martinibuster",
+            "description": "SQL injection vulnerability in Fluent Forms Contact Form could allow hackers to manipulate website database\nThe post Vulnerability In Fluent Forms Contact Form WordPress Plugin appeared first on Search Engine Journal.",
+            "url": "https://www.searchenginejournal.com/fluent-forms-contact-form-plugin-vulnerability/500061/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/11/fluent-forms-vulnerability-65455f4336218-sej.jpg",
+            "publishedAt": "2023-11-03T21:10:11Z",
+            "content": "The popular Fluent Forms Contact Form Builder plugin for WordPress, with over 300,000 installations, was discovered to contain a SQL Injection vulnerability that could allow database access to hacker… [+5541 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Brandon Vigliarolo",
+            "title": "Apple slams Android as a 'massive tracking device' in internal slides revealed in Google antitrust battle",
+            "description": "And wheels out Eric Schmidt quote about Chrome maker going 'right up to the creepy line but not cross it'\nThe US Department of Justice released a series of documents in its antitrust trial against Google yesterday, including documents that reveal Apple made i…",
+            "url": "https://www.theregister.com/2023/11/03/google_trial_apple/",
+            "urlToImage": "https://regmedia.co.uk/2023/11/03/shutterstock_apple_google.jpg",
+            "publishedAt": "2023-11-03T22:26:35Z",
+            "content": "The US Department of Justice released a series of documents in its antitrust trial against Google yesterday, including documents that reveal Apple made its default search deal with the Chocolate Fact… [+3347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ittavern.com"
+            },
+            "author": "wop",
+            "title": "URL Explained – The Fundamentals",
+            "description": "In this post, I'll try to explain the syntax and use of an URL and the difference between URI, URL, URN, and URC.\nURL explained #\n\nThis will be our example for this post:\nhttps://username:password@www",
+            "url": "https://ittavern.com/url-explained-the-fundamentals/",
+            "urlToImage": "https://ittavern.com/images/previewimages/ittavern.png",
+            "publishedAt": "2023-11-13T12:23:42Z",
+            "content": "In this post, I'll try to explain the syntax and use of an URL and the difference between URI, URL, URN, and URC.\r\nURL explained #\r\nThis will be our example for this post:\r\nhttps://username:password@… [+8150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "R-bloggers.com"
+            },
+            "author": "rstats-tips.net",
+            "title": "Query BigQuery throws error: Error in strsplit(name, “.”, fixed = TRUE) : non-character argument",
+            "description": "Lately I tried to query BigQuery using bigrquery. Unfortunately I got an error:\nError in strsplit(name, \".\", fixed = TRUE) : non-character argument\nUpdating to the latest packages on CRAN doesn’t solve the problem. So I had to dig deepe...\nContinue reading: Q…",
+            "url": "https://www.r-bloggers.com/2023/11/query-bigquery-throws-error-error-in-strsplitname-fixed-true-non-character-argument/",
+            "urlToImage": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png",
+            "publishedAt": "2023-11-26T00:00:00Z",
+            "content": "[This article was first published on rstats-tips.net, and kindly contributed to R-bloggers]. (You can report issue about the content on this page here)\r\nWant to share your content on R-bloggers? clic… [+434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogspot.com"
+            },
+            "author": null,
+            "title": "Jobs table implementation for r/roguelikedev project",
+            "description": "Behind the scenes - how I'm making redblobgames.com - interactive explanations of game development algorithms and math",
+            "url": "https://simblob.blogspot.com/2023/11/jobs-table-implementation-for.html",
+            "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/ALY8t1sVnq3zQpymKogoujqhPL57pAFLRJ2ZskaXlLQ6XUJcwuWxCYsxWW4sI8ayFl6vOshYRxe1SKWoOFunwIPr7MBrTi0NTS87_6EyXAM458TzLggI2H4NsECk1s7IxBykAF9CouxcCzEbdlcIXw=w1200-h630-p-k-no-nu",
+            "publishedAt": "2023-11-03T18:23:20Z",
+            "content": "Thursday, November 02, 2023\r\nIn the last post I mentioned that while working on my colony simulator game for the r/roguelikedev summer event, I ran into a situation where my data structures made me u… [+5588 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "John Werner, Contributor, \n John Werner, Contributor\n https://www.forbes.com/sites/johnwerner/",
+            "title": "Keep Your Cards Hidden With New Server Methods: ORAM",
+            "description": "All of this is in response to a user query that Servan-Schreiber suggests should be, ideally, kept private.",
+            "url": "https://www.forbes.com/sites/johnwerner/2023/11/21/keep-your-cards-hidden-with-new-server-methods-oram/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655a34c227f979310826c03b/0x0.jpg?format=jpg&crop=1601,900,x0,y148,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2023-11-21T14:00:00Z",
+            "content": "Video: How can we keep privacy enforced?\r\nIt's a tricky game privacy protection, cybersecurity, the whole ball of wax. Ever since the arrival of the VPN, (and even prior), weve been trying to fine-tu… [+3913 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Taoshu.in"
+            },
+            "author": "涛叔",
+            "title": "Selfhosted Email by Maddy on Oracle Cloud",
+            "description": "I have used email service with my own domain for several years. Gandi.net were chosen as my domain registrar, not only because its low fees, but also its free mailbox service. However, since the middle of this year, Gandi.net has announced their price increme…",
+            "url": "https://taoshu.in/net/selfhost-email.html",
+            "urlToImage": null,
+            "publishedAt": "2023-11-26T04:24:21Z",
+            "content": "2023-11-25\r\n10.0 min(4.0k words)gI have used email service with my own domain for several years. Gandi.net were chosen as my domain registrar, not only because its low fees, but also its free mailbox… [+25625 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pinecone.io"
+            },
+            "author": "Zachary Proser",
+            "title": "Pinecone Open-Sources AWS Reference Architecture with Pulumi",
+            "description": "The Pinecone AWS Reference Architecture is the fastest way to go to production with high-scale use-cases that leverage Pinecone's vector database.",
+            "url": "https://www.pinecone.io/blog/aws-reference-architecture/",
+            "urlToImage": "https://cdn.sanity.io/images/vr8gru94/production/d8ca30ba6685a8236092b29d3832b050fe2e2740-1792x1024.png",
+            "publishedAt": "2023-11-27T17:26:14Z",
+            "content": "Pinecones vector database scales to billions of vectors and returns queries in milliseconds.\r\nWeve heard from customers that our many open-source Jupyter notebooks and example applications are ideal … [+4029 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "colton.stradling@gmail.com (Colton Stradling)",
+            "title": "ChatGPT confirms outages caused by DDoS attack",
+            "description": "ChatGPT has been giving out errors and warning messages since around noon PST on November 8th due to limited bandwidth caused by a DDoS attack.",
+            "url": "https://www.windowscentral.com/software-apps/chatgpt-confirms-outages-caused-by-ddos-attack",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YCPFzNKmoa53H6xyudU8xY-1200-80.jpg",
+            "publishedAt": "2023-11-09T16:00:59Z",
+            "content": "What you need to know\r\n<ul><li>Since around noon PST ChatGPT has been under a DDoS attack confirms OpenAI.</li><li>If you are using ChatGPT and receive error messages stating \"too many requests\" it i… [+5229 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Adamya Sharma",
+            "title": "Everyone can now speak to ChatGPT for free",
+            "description": "ChatGPT now offers voice conversations for all users, not just those who pay for the service. Here's how it works.",
+            "url": "https://www.androidauthority.com/chatgpt-voice-conversation-availability-3387899/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-12.jpg",
+            "publishedAt": "2023-11-22T08:21:00Z",
+            "content": "<ul><li>ChatGPT now offers voice conversations to all users for free.</li><li>The feature was previously available only to paying users.</li><li>You can start talking to ChatGPT through the AIs mobil… [+1262 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Amazon.com"
+            },
+            "author": "Sébastien Stormacq",
+            "title": "Amazon Redshift adds new AI capabilities, including Amazon Q, to boost efficiency and productivity",
+            "description": "Amazon Redshift puts artificial intelligence (AI) at your service to optimize efficiencies and make you more productive with two new capabilities that we are launching in preview today. First, Amazon Redshift Serverless becomes smarter. It scales capacity pro…",
+            "url": "https://aws.amazon.com/blogs/aws/amazon-redshift-adds-new-ai-capabilities-to-boost-efficiency-and-productivity/",
+            "urlToImage": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/11/21/generative-sql-ai-optimizations-1120x630.png",
+            "publishedAt": "2023-11-29T17:57:11Z",
+            "content": "Amazon Redshift puts artificial intelligence (AI) at your service to optimize efficiencies and make you more productive with two new capabilities that we are launching in preview today.\r\nFirst, Amazo… [+8398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Krystle Vermes",
+            "title": "Google’s new Maps color scheme is officially rolling out on Android Auto",
+            "description": "The new colors were chosen to reflect the real world more accurately",
+            "url": "https://www.androidpolice.com/google-maps-colors-new-android-auto/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/android-auto-1-ap-hero.jpg",
+            "publishedAt": "2023-11-27T16:52:20Z",
+            "content": "Summary\r\n<ul><li> Google Maps is rolling out a new color scheme for Android Auto, featuring cooler shades like gold, blue, and gray, giving users a refreshed map experience. </li><li> Some users have… [+2976 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Research.google"
+            },
+            "author": "Google AI",
+            "title": "Best of both worlds: Achieving scalability and quality in text clustering",
+            "description": null,
+            "url": "http://blog.research.google/2023/11/best-of-both-worlds-achieving.html#comment-form",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR2mD5afdT_Qg9Ex4Lj94FaxB9KHiq20iLoDlOY8S8Rk5XsV6n_4dU9CFbCvSeBSONGQYqy-yMGY6-KU_y_RGICOpz76GNdzv7ecxor_rVnF31lZOd3STQF4MIE4F_EadrSI1DXY67MXnsCswY3w3X8vX8KgU_rRPs6eTZndYAbVcEezgwaUsdZEAHD59Z/w1200-h630-p-k-no-nu/hero.jpg",
+            "publishedAt": "2023-11-03T18:23:00Z",
+            "content": "Posted by Sara Ahmadian and Mehran Kazemi, Research Scientists, Google Research\n\n\n\n\nClustering is a fundamental, ubiquitous problem in data mining and unsupervised machine learning, where the goal is… [+8849 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alistair Barr",
+            "title": "A simple way to fix search: Bright pink ads",
+            "description": "There's a lot of angst lately about the quality of online search. A big part of the problem is poorly labeled ads. There's a simple way to fix this.",
+            "url": "https://www.businessinsider.com/simple-fix-online-search-google-amazon-bing-bright-pink-ads-2023-11",
+            "urlToImage": "https://i.insider.com/654ab34bb788914e55521a18?width=1200&format=jpeg",
+            "publishedAt": "2023-11-13T18:22:34Z",
+            "content": "Google, Tyler Le/Insider\r\n<ul><li>There's a lot of angst these days about the declining quality of online search.</li><li>The steady encroachment of poorly labeled ads into search results is a major … [+8211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Questdb.io"
+            },
+            "author": "QuestDB",
+            "title": "Solving duplicate data with performant deduplication",
+            "description": "Duplicate data is an expensive and frustrating problem. QuestDB provides data deduplication. See how it compares with strong storage engines like Clickhouse & Timescale.",
+            "url": "https://questdb.io/blog/solving-duplicate-data-performant-deduplication/",
+            "urlToImage": "https://questdb.io/img/blog/2023-11-01/duplicate-data.banner.webp",
+            "publishedAt": "2023-11-20T18:08:34Z",
+            "content": "QuestDB is a high-performance time series database with SQL analytics that can\r\nhelp you overcome ingestion speed bottle necks. It's\r\nopen source and integrates well with\r\ntools and languages you use… [+11889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Roger Montti",
+            "title": "Search Console Insights: What The Report Can Tell You via @sejournal, @martinibuster",
+            "description": "An easy guide to using Search Console Insights to quickly understand actionable information about how your site is ranking in Google.\nThe post Search Console Insights: What The Report Can Tell You appeared first on Search Engine Journal.",
+            "url": "https://www.searchenginejournal.com/google-search-insights/497667/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/10/shutterstock_226933144-651bd88fd66af-sej.jpg",
+            "publishedAt": "2023-11-24T10:00:37Z",
+            "content": "The Google Search Console Insights email that drops into your inbox each month can be a powerful tool for understanding your website’s performance and informing your SEO strategy.  \r\nWhile some peopl… [+7711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Arushi Bhaskar",
+            "title": "Daily Briefing: Latest on the Mahua Moitra cash-for-query allegations; what’s on voters’ minds in Madhya Pradesh; and more",
+            "description": "In today's edition: India files appeal in Qatar death row case; tracing Afghanistan’s journey in World Cup; and more",
+            "url": "https://indianexpress.com/article/live-news/top-news-daily-briefing-9021069/",
+            "urlToImage": "https://images.indianexpress.com/2023/11/briefing-new-1.jpeg",
+            "publishedAt": "2023-11-10T02:27:06Z",
+            "content": "In todays edition: Latest on the Mahua Moitra cash-for-query allegations; whats on voters minds in Madhya Pradesh; India files appeal in Qatar death row case; tracing Afghanistans journey in World Cu… [+3544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Lindsay Clark",
+            "title": "Microsoft touts mirroring over moving in data warehouse gambit",
+            "description": "Fabric update cuts against the grain, and may have more to do with Databricks partnerships\nIgnite Microsoft is advising customers using its Fabric platform to copy data from other data warehouses and analytics systems in a move against the prevailing industry…",
+            "url": "https://www.theregister.com/2023/11/15/microsoft_fabric_mirroring/",
+            "urlToImage": "https://regmedia.co.uk/2023/11/15/shutterstock_mirror_data.jpg",
+            "publishedAt": "2023-11-15T19:16:04Z",
+            "content": "Ignite Microsoft is advising customers using its Fabric platform to copy data from other data warehouses and analytics systems in a move against the prevailing industry trend.\r\nFabric which encompass… [+5206 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Jayric Maning",
+            "title": "Going Beyond ChatGPT: What Does the Future Hold for Generative AI and and Chatbots?",
+            "description": "Generative AI chatbots are only at the start of their journey, but we're already considering what's next.",
+            "url": "https://www.makeuseof.com/going-beyond-chatgpt-what-does-the-future-hold-for-generative-ai-chatbots/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/openai-gpt-technology.jpg",
+            "publishedAt": "2023-11-20T17:15:18Z",
+            "content": "Key Takeaways\r\n<ul><li> ChatGPT's success has triggered widespread investment in AI research and integration, leading to unprecedented opportunities and advancements in the field. </li><li> Semantic … [+5392 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Paul Kunert",
+            "title": "Microsoft hits Alt+F4 on internal ChatGPT access over security jitters, irony ensues",
+            "description": "Apparently the move was in error\nIn what would be delicious irony, Microsoft is reported to have temporarily pulled internal access to OpenAI's ChatGPT over security fears.…",
+            "url": "https://www.theregister.com/2023/11/10/microsoft_blocks_chatgpt/",
+            "urlToImage": "https://regmedia.co.uk/2018/09/17/shutterstock_shutdown.jpg",
+            "publishedAt": "2023-11-10T14:33:13Z",
+            "content": "In what would be delicious irony, Microsoft is reported to have temporarily pulled internal access to OpenAI's ChatGPT over security fears.\r\nNot only has Microsoft invested $13 billion into OpenAI, i… [+2111 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Roger Montti",
+            "title": "Google On Topical Authority: Don’t Worry About It via @sejournal, @martinibuster",
+            "description": "Google's John Mueller on what to do about Topical Authority\nThe post Google On Topical Authority: Don’t Worry About It appeared first on Search Engine Journal.",
+            "url": "https://www.searchenginejournal.com/google-on-topical-authority-dont-worry-about-it/501209/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/11/topical-authority-655294d73bee9-sej.jpg",
+            "publishedAt": "2023-11-13T21:31:51Z",
+            "content": "John Mueller posted an affirmation of a Redditor’s deconstruction of the commonly used SEO phrase Topical Authority, which demystified what topical authority for SEO is really about.\r\nReddit Discussi… [+5335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Matt G. Southern",
+            "title": "Google Simplifies The Search Console Page Experience Report via @sejournal, @MattGSouthern",
+            "description": "Google simplifies the Search Console page experience report to focus on holistic optimization guidance rather than individual metrics.\nThe post Google Simplifies The Search Console Page Experience Report appeared first on Search Engine Journal.",
+            "url": "https://www.searchenginejournal.com/google-simplifies-the-search-console-page-experience-report/500838/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/11/img_2023-11-08-155649-654bf63c01430-sej.jpeg",
+            "publishedAt": "2023-11-08T20:59:47Z",
+            "content": "Google has announced upcoming changes to Search Console, designed to help website owners holistically improve page experience.\r\nIn a blog post, Google says the current page experience report will tra… [+2271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "medium.datadriveninvestor.com",
+            "title": "Mastering Advanced Data Analysis: Unveiling the Power of a Robust SQL Query Transformation",
+            "description": "Introduction: This SQL query is a sophisticated data transformation operation aimed at consolidating and normalizing data from the table. The primary objective is to reshape the data by converting monthly columns into rows and organizing it into meaningful ca…",
+            "url": "https://biztoc.com/x/723255a184039944",
+            "urlToImage": "https://c.biztoc.com/p/723255a184039944/s.webp",
+            "publishedAt": "2023-11-25T07:06:13Z",
+            "content": "Introduction: This SQL query is a sophisticated data transformation operation aimed at consolidating and normalizing data from the table. The primary objective is to reshape the data by converting mo… [+195 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sqlsync.dev"
+            },
+            "author": null,
+            "title": "SQLSync – Stop Building Databases",
+            "description": "Join me as we take a look at common application data patterns, and how they relate to the inner-workings of databases. In this post, we discuss data caching, indexing, optimistic mutations, and recursive cache invalidation. We will see how life might be easie…",
+            "url": "https://sqlsync.dev/posts/stop-building-databases/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-01T17:19:28Z",
+            "content": "back\r\nThere comes a time in every frontend engineers life where we realize we need to cache data from an API. It might start off benign storing a previous page of data for that instant back button ex… [+17814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "cryptopotato.com",
+            "title": "Google Cloud’s BigQuery Embraces Space and Time’s ZK-Proof for Verifiable Query Results",
+            "description": "Space and Time, a data warehousing player, announced that it will enable its novel zero-knowledge (ZK) proof for SQL operations to work with Google Cloud’s warehouse, BigQuery. Dubbed ‘Proof of SQL,’ Space and Time’s new ZK protocol, will enable developers le…",
+            "url": "https://biztoc.com/x/5eca171e3bfac2f6",
+            "urlToImage": "https://c.biztoc.com/p/5eca171e3bfac2f6/s.webp",
+            "publishedAt": "2023-11-05T20:24:08Z",
+            "content": "Space and Time, a data warehousing player, announced that it will enable its novel zero-knowledge (ZK) proof for SQL operations to work with Google Clouds warehouse, BigQuery.Dubbed Proof of SQL, Spa… [+296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thoughtbot.com"
+            },
+            "author": "Chris Toomey",
+            "title": "Sharing Query Logic Within ActiveRecord Models",
+            "description": "Re-use collection query logic within model instances to avoid duplication and get the best performance.",
+            "url": "https://thoughtbot.com/blog/sharing-query-logic-within-activerecord-models",
+            "urlToImage": "https://images.thoughtbot.com/blog-images/social-share-default.png",
+            "publishedAt": "2023-11-22T00:00:00Z",
+            "content": "I was recently working on an application in which we had a class method / scope\nused to return a specific set of users. This was fine and good until we found\nourselves needing to capture the same log… [+2619 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Associated Press",
+            "title": "Pope Francis says he is ill but will go to Dubai this week for climate conference",
+            "description": "The pontiff described it as an \"inflammation of the lungs.\"",
+            "url": "https://www.politico.com/news/2023/11/26/pope-francis-climate-conference-ill-00128606",
+            "urlToImage": "https://static.politico.com/45/fa/c29c28104913b6e4dec3a2c0950d/vatican-pope-72334.jpg",
+            "publishedAt": "2023-11-26T13:27:30Z",
+            "content": "In those comments, Francis said he was going to the United Arab Emirates for the COP28 gathering on climate change and that he would deliver his speech, as scheduled, on Saturday to the participants.… [+1409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Fionna Agomuoh",
+            "title": "Here’s why you can’t sign up for ChatGPT Plus right now",
+            "description": "ChatGPT Plus has been down for nearly week. Here are some of the details as to why the paid service remains inaccessible to users.",
+            "url": "https://www.digitaltrends.com/computing/why-you-cant-sign-up-for-chatgpt-plus-right-now/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/06/ChatGPT-laptop-Viralyft-Unsplash.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2023-11-20T23:25:27Z",
+            "content": "CEO Sam Altman’s sudden departure from OpenAI weekend isn’t the only drama happening with ChatGPT. Due to high demand, paid subscriptions for OpenAI’s ChatGPT Plus have been halted for nearly a week.… [+5115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wordpress.com"
+            },
+            "author": null,
+            "title": "How we know what we know",
+            "description": "Lorraine Daston Why is there no epistemology of the humanities that is even remotely comparable to the epistemology of the sciences? Why is it that humanists can gesture to only a handful of semina…",
+            "url": "https://critinq.wordpress.com/2023/09/19/how-we-know-what-we-know/",
+            "urlToImage": "https://critinq.files.wordpress.com/2023/09/img_8634.jpg",
+            "publishedAt": "2023-11-11T14:23:35Z",
+            "content": "Lorraine Daston\r\nWhy is there no epistemology of the humanities that is even remotely comparable to the epistemology of the sciences? Why is it that humanists can gesture to only a handful of seminal… [+5933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Petemillspaugh.com"
+            },
+            "author": null,
+            "title": "Edison Bulb Night Mode",
+            "description": "Pete Millspaugh",
+            "url": "https://www.petemillspaugh.com/edison-bulb",
+            "urlToImage": "https://petemillspaugh-a9kmf1uqb-pmillspaugh.vercel.app/images/socialBanner.png",
+            "publishedAt": "2023-11-03T22:29:02Z",
+            "content": "Up in the top right corner of the screen, theres a little light bulb. Its an SVG I made to resemble the Edison bulb I have in my apartment. You can click or drag and release to turn the lights on and… [+5508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SitePoint"
+            },
+            "author": "Dianne Pena",
+            "title": "LlamaIndex vs LangChain: Tools for Building LLM-powered Apps",
+            "description": "In this comparison of LlamaIndex vs LangChain, we'll help you understand the capabilities of these two remarkable tools.\n \n Continue reading\n LlamaIndex vs LangChain: Tools for Building LLM-powered Apps\n on SitePoint.",
+            "url": "https://www.sitepoint.com/llamaindex-vs-langchain-tools-for-building-llm-powered-apps/",
+            "urlToImage": "https://uploads.sitepoint.com/wp-content/uploads/2023/11/1698903452langchain-vs-llamaindex.jpg",
+            "publishedAt": "2023-11-02T05:00:15Z",
+            "content": "Imagine harnessing the power of large language models (LLMs) like GPT-3 to build highly efficient search and retrieval applications for extracting insights from your data. In this comparison of Llama… [+7419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Ademola Thompson",
+            "title": "How to Create a Registration App With Python and a Database",
+            "description": "Build this app to learn about creating a database table and populating it with data.",
+            "url": "https://www.makeuseof.com/python-database-registration-app-how-create/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pyton-and-database.jpg",
+            "publishedAt": "2023-11-11T15:00:18Z",
+            "content": "Python has excellent database support built into its standard library, so you can create and interact with a database without relying on external frameworks like the Django ORM.\r\nSQLite is lightweigh… [+7588 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lancedb.com"
+            },
+            "author": "Lei Xu",
+            "title": "GPU-Accelerated Indexing in LanceDB",
+            "description": "Vector databases are extremely useful for RAG, RecSys, computer vision, and a whole host of other ML/AI applications. Because of the rise of LLMs, there has been a lot of focus on vector indices, the…",
+            "url": "https://blog.lancedb.com/gpu-accelerated-indexing-in-lancedb-27558fa7eee5",
+            "urlToImage": "https://miro.medium.com/v2/resize:fit:1024/1*9tRrnjLVnasYS1E9d1PRvA.png",
+            "publishedAt": "2023-11-02T17:31:41Z",
+            "content": "GPU-accelerated Indexing in LanceDB\r\nVector databases are extremely useful for RAG, RecSys, computer vision, and a whole host of other ML/AI applications. Because of the rise of LLMs, there has been … [+4641 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Teresa Giudice 'RHONJ' BravoCon Descends Into Chaos",
+            "description": "Teresa Giudice went full New Jersey alongside one of her 'RHONJ' costars after a fan poked the bear at BravoCon ... forcing them to tell this lady off in true trash reality TV fashion. The 'Real Housewives' star was sharing the stage with Jen Aydin…",
+            "url": "https://www.tmz.com/2023/11/06/teresa-giudice-real-housewives-new-jersey-rhonj-bravocon-joe-gorga-melissa-gorga/",
+            "urlToImage": "https://imagez.tmz.com/image/73/16by9/2023/11/06/73eacc4216aa4979b85301ba8e2c0b58_xl.jpg",
+            "publishedAt": "2023-11-06T15:51:37Z",
+            "content": "Teresa Giudice went full New Jersey alongside one of her 'RHONJ' costars after a fan poked the bear at BravoCon ... forcing them to tell this lady off in true trash reality TV fashion.\r\nThe 'Real Hou… [+1676 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Darren Allan",
+            "title": "Watch out, Google – Bing search now uses AI to hone its results",
+            "description": "Microsoft leaps head-first into generative AI, which Google has already been testing for some time",
+            "url": "https://www.techradar.com/computing/artificial-intelligence/watch-out-google-bing-search-now-uses-ai-to-hone-its-results",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/b8yF7XFgRwYtVMMGXCtgtk-1200-80.jpg",
+            "publishedAt": "2023-11-22T10:41:45Z",
+            "content": "Bing, Microsoft's search engine, has been powered up using AI.\r\nWindows Central noticed that Microsoft penned a blog post about the generative AI captions which have been introduced to Bing search.\r\n… [+2196 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Winston Burton",
+            "title": "Are LLMs And Search Engines The Same? via @sejournal, @wburton27",
+            "description": "Discover the transformative power of AI Large Language Models in this insightful article. Learn how they're reshaping workflows and compare them to search engines.\nThe post Are LLMs And Search Engines The Same? appeared first on Search Engine Journal.",
+            "url": "https://www.searchenginejournal.com/are-llms-and-search-engines-the-same/500057/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/11/llms-and-search-engines-the-same-6548a4620e8ad-sej.png",
+            "publishedAt": "2023-11-21T09:15:09Z",
+            "content": "AI large language models (LLMs) like ChatGPT have taken the world by storm and are being integrated into workflows, platforms, and software to make us more efficient and productive.\r\nChatGPT is like … [+6882 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Richard Speed",
+            "title": "You get a Copilot, and you get a Copilot – Microsoft now the Copilot company",
+            "description": "Wherever you hide, AI will find you\nIgnite Microsoft continues to push its Copilot concept onto users and shoehorn the technology into every crevice of the company's line-up and others via Copilot Studio.…",
+            "url": "https://www.theregister.com/2023/11/15/microsoft_ignite_copilot/",
+            "urlToImage": "https://regmedia.co.uk/2021/03/30/robot.jpg",
+            "publishedAt": "2023-11-15T17:45:07Z",
+            "content": "Ignite Microsoft continues to push its Copilot concept onto users and shoehorn the technology into every crevice of the company's line-up and others via Copilot Studio.\r\nWhereas Copilot for Microsoft… [+3831 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Omer Dursun",
+            "title": "Google tests moving the search bar to the bottom on Android",
+            "description": "Google is reportedly experimenting with moving the search bar to the bottom of the screen in its Android app. The query will automatically populate in the lowered search box during active searches. Read more...",
+            "url": "https://www.neowin.net/news/google-tests-moving-the-search-bar-to-the-bottom-on-android/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2020/09/1600598348_google-search-widget-customisation_story.jpg",
+            "publishedAt": "2023-11-28T14:10:01Z",
+            "content": "Google seems to be experimenting with a new interface for its search app on Android. It moves the primary search bar from the top of the screen to the bottom.\r\nAccording to AssembleDebug, the company… [+1654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Industry News",
+            "title": "Elastic simplifies data investigations with piped query language, ES|QL",
+            "description": "Elastic has unveiled Elasticsearch Query Language (ES|QL), its new piped query language designed to transform, enrich and simplify data investigation with concurrent processing. ES|QL enables site reliability engineers (SREs), developers and security professi…",
+            "url": "https://www.helpnetsecurity.com/2023/11/08/elastic-elasticsearch-query-language-esql/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/05/10093706/hns-2023-large_logo.jpg",
+            "publishedAt": "2023-11-08T14:00:47Z",
+            "content": "Elastic has unveiled Elasticsearch Query Language (ES|QL), its new piped query language designed to transform, enrich and simplify data investigation with concurrent processing. ES|QL enables site re… [+1913 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cheezburger.com"
+            },
+            "author": "kalilacourban, kalilacourban",
+            "title": "Top 20 Cat Memes of The Week - Cheezburger Users Edition #321",
+            "description": "Hey, ICanHas aficionados! Here's a crucial query for you: have you showered your cat with a million tiny forheard kisses today yet? If not, perhaps it's time to reconsider your priorities. Commencing the day with a bout of feline affection is undeniably the e…",
+            "url": "https://cheezburger.com/23251717/top-20-cat-memes-of-the-week-cheezburger-users-edition-321",
+            "urlToImage": "https://i.chzbgr.com/thumb1200/23251717/hC9920518/20-lolcat-memes",
+            "publishedAt": "2023-12-01T14:00:00Z",
+            "content": "Hey, ICanHas aficionados! Here's a crucial query for you: have you showered your cat with a million tiny forheard kisses today yet? If not, perhaps it's time to reconsider your priorities. Commencing… [+1293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Lindsay Clark",
+            "title": "Databricks' lakehouse becomes foundation under fresh layer of AI dreams",
+            "description": "Mega startup serves slice of GenAI with data engineering main as it tries to upstage Microsoft’s Fabric showpiece\nDatabricks has decided to launch a complete overhaul of its platform during the climax of Ignite, the global tech shindig run by Microsoft, the s…",
+            "url": "https://www.theregister.com/2023/11/16/databricks_sinks_lakehouse_in_bid/",
+            "urlToImage": "https://regmedia.co.uk/2023/11/16/shutterstock_ai_in_data_lakehouse.jpg",
+            "publishedAt": "2023-11-16T14:07:12Z",
+            "content": "Databricks has decided to launch a complete overhaul of its platform during the climax of Ignite, the global tech shindig run by Microsoft, the software giant with which the data analytics and ML ven… [+2943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Amazon.com"
+            },
+            "author": "aws@amazon.com",
+            "title": "Amazon RDS Proxy now supports PostgreSQL Extended Query Protocol",
+            "description": "Amazon RDS Proxy is a fully managed and a highly available database proxy for Amazon Aurora and RDS databases. RDS Proxy allows customers to gracefully scale applications by efficiently reusing database connections. For application using PostgreSQL Extended Q…",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-proxy-postgresql-extended-query-protocol/",
+            "urlToImage": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+            "publishedAt": "2023-11-10T19:40:50Z",
+            "content": "Posted On: Nov 10, 2023\r\nAmazon RDS Proxy is a fully managed and a highly available database proxy for Amazon Aurora and RDS databases. RDS Proxy allows customers to gracefully scale applications by … [+1188 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "daryl.baxter@futurenet.com (Daryl Baxter)",
+            "title": "Tim Cook wants you to know Apple's working on AI, just don't expect it anytime soon",
+            "description": "During Apple’s fourth-quarter results, investors asked Tim Cook about where Apple stands on AI so far.",
+            "url": "https://www.imore.com/apple/tim-cook-wants-you-to-know-apples-working-on-ai-just-dont-expect-it-anytime-soon",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8aTM8aa8oWpFmrLbyewkij-1200-80.jpg",
+            "publishedAt": "2023-11-03T14:24:26Z",
+            "content": "During a call with investors after announcing Apple’s fourth quarter results\r\n for the year, Apple CEO Tim Cook was asked a question about the company’s endeavors with AI, with a predictable answer.\r… [+2105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "jillg366",
+            "title": "David Zaslav Says He Fought To End Strike, WBD Showed “Courage” In Slashing Content Slate & Staff As Industry Changed; CEO Sidesteps Pay Query In Q&A",
+            "description": "“We’re at a very hard time that requires hard decisions, and many of them are unpopular,” said Warner Bros. Discovery CEO David Zaslav reviewing the trajectory of a company that has slashed staff and shelved content in an landscape that’s completely transform…",
+            "url": "https://deadline.com/2023/11/david-zaslav-warner-bros-discovery-layoffs-restructuring-pay-strike-1235642394/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/11/David-Zaslav.jpg?w=1024",
+            "publishedAt": "2023-11-29T17:53:18Z",
+            "content": "“We’re at a very hard time that requires hard decisions, and many of them are unpopular,” said Warner Bros. Discovery CEO David Zaslav reviewing the trajectory of a company that has slashed staff and… [+2434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Amazon.com"
+            },
+            "author": "aws@amazon.com",
+            "title": "Amazon Athena adds cost-based optimizer to enhance query performance",
+            "description": "Starting today, Amazon Athena uses cost-based optimizer (CBO) to enhance query performance based on table and column statistics, collected by AWS Glue Data Catalog. With CBO, Athena analyzes and selects query plan optimizations, such as reordering joins or mo…",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cost-based-optimizer-enhance-query-performance/",
+            "urlToImage": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+            "publishedAt": "2023-11-17T20:58:34Z",
+            "content": "Posted On: Nov 17, 2023\r\nStarting today, Amazon Athena uses cost-based optimizer (CBO) to enhance query performance based on table and column statistics, collected by AWS Glue Data Catalog. With CBO,… [+1126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Nathan A. Drescher",
+            "title": "How to restore your access to reverse image search in Chrome",
+            "description": "Learn how to easily restore your access to reverse image search in Chrome by reading this guide.",
+            "url": "https://www.androidpolice.com/how-to-restore-reverse-image-search-in-chrome/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/03/17/image-2021-03-17-06-19-07.png",
+            "publishedAt": "2023-12-01T18:00:25Z",
+            "content": "Google reverse image search finds images on the web using an image as the search query. When you upload an image to Google, it locates where the image came from and other sites that use the same imag… [+4052 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Kristi Hines",
+            "title": "Perplexity Introduces Online LLMs With Real-Time Information via @sejournal, @kristileilani",
+            "description": "Perplexity announced two new online LLMs that can access up-to-date information to form helpful, accurate responses. Available in the Perplexity API and Labs.\nThe post Perplexity Introduces Online LLMs With Real-Time Information appeared first on Search Engin…",
+            "url": "https://www.searchenginejournal.com/perplexity-introduces-online-llms-with-real-time-information/502523/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/11/perplexity-ai-online-llms-pplx-models-656766c3a485e-sej.jpg",
+            "publishedAt": "2023-11-29T16:42:21Z",
+            "content": "Perplexity, a San Francisco-based startup, has unveiled two new online large language models (LLMs) called pplx-7b-online and pplx-70b-online.\r\nThese online LLMs aim to overcome key limitations of ma… [+3023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techdirt"
+            },
+            "author": "Mike Masnick",
+            "title": "Does Elon Grok The Trademark Issues With ‘Grok’? AI Chip Company Groq Does",
+            "description": "As you likely know by now, last week, Elon Musk released the initial version of the AI chatbot he created earlier this year via “xAI” which may or may not be part of his many other companies, but definitely uses employees, technology, and resources from those…",
+            "url": "https://www.techdirt.com/2023/11/15/does-elon-grok-the-trademark-issues-with-grok-ai-chip-company-groq-does/",
+            "urlToImage": "http://img.youtube.com/vi/ORm8r2HyrAc/0.jpg",
+            "publishedAt": "2023-11-15T20:13:22Z",
+            "content": "from the grok-the-groq,-grok dept\r\nAs you likely know by now, last week, Elon Musk released the initial version of the AI chatbot he created earlier this year via xAI which may or may not be part of … [+4590 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sethmlarson.dev"
+            },
+            "author": "Seth Michael Larson",
+            "title": "Seth Michael Larson: Querying every file in every release on the Python Package Index",
+            "description": "This critical role would not be possible without funding from the OpenSSF Alpha-Omega Project. Massive thank-you to Alpha-Omega for investing in the security of the Python ecosystem!\n\n\n\n\nLast we...",
+            "url": "https://sethmlarson.dev/security-developer-in-residence-weekly-report-18?date=2023-11-14",
+            "urlToImage": "https://github.com/sethmlarson.png",
+            "publishedAt": "2023-11-14T00:00:00Z",
+            "content": "This critical role would not be possible without funding from the OpenSSF Alpha-Omega Project. Massive thank-you to Alpha-Omega for investing in the security of the Python ecosystem!\r\nLast week I pub… [+9460 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Kristi Hines",
+            "title": "Amazon Q Generative AI Chatbot For Businesses Launches In Preview via @sejournal, @kristileilani",
+            "description": "An in-depth look at Amazon Q, the new generative AI assistant for businesses, with 40+ integrations to enterprise applications including Adobe, Google, Microsoft, and Salesforce.\nThe post Amazon Q Generative AI Chatbot For Businesses Launches In Preview appea…",
+            "url": "https://www.searchenginejournal.com/amazon-q-generative-ai-chatbot-for-businesses-launches-in-preview/502393/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/11/amazon-launches-q-generative-ai-chatbot-65663e40c1766-sej.jpg",
+            "publishedAt": "2023-11-28T20:30:22Z",
+            "content": "Amazon announced the launch of Q, a generative AI chatbot designed to enhance business operations with direct integrations to over 40 enterprise applications, in limited preview.\r\nThis new technology… [+7156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ghacks Technology News"
+            },
+            "author": "Martin Brinkmann",
+            "title": "Mullvad's public encrypted DNS Servers run in RAM now",
+            "description": "Sweden-based VPN provider Mullvad announced today that its public encrypted DNS servers run fully in RAM. The announcement comes less than two months after Mullvad completed the migration of its VPN infrastructure […]\nThank you for being a Ghacks reader. The …",
+            "url": "https://www.ghacks.net/2023/11/11/mullvads-public-encrypted-dns-servers-run-in-ram-now/",
+            "urlToImage": "https://www.ghacks.net/wp-content/uploads/2023/11/dayne-topkin-u5Zt-HoocrM-unsplash.jpg",
+            "publishedAt": "2023-11-11T05:38:55Z",
+            "content": "Sweden-based VPN provider Mullvad announced today that its public encrypted DNS servers run fully in RAM. The announcement comes less than two months after Mullvad completed the migration of its VPN … [+3816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Amazon.com"
+            },
+            "author": "aws@amazon.com",
+            "title": "Amazon OpenSearch Service now supports hybrid query score normalization",
+            "description": "OpenSearch Service 2.11 now supports hybrid query score normalization. It is now easier than ever for search practitioners to leverage a combination of lexical and semantic search to improve their search relevance with OpenSearch.",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-hybrid-query-score-normalization/",
+            "urlToImage": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+            "publishedAt": "2023-11-14T18:56:19Z",
+            "content": "Combining lexical and semantic search methodologies has been beneficial to leverage the strengths of each of the methods, but until now it has been challenging given the different relevancy score sca… [+357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techdirt"
+            },
+            "author": "Mike Masnick",
+            "title": "Sarah Silverman’s AI Case Isn’t Going Very Well Either",
+            "description": "Just a few weeks ago Judge William Orrick massively trimmed back the first big lawsuit that was filed against generative AI companies for training their works on copyright-covered materials. Most of the case was dismissed, and what bits remained may not last …",
+            "url": "https://www.techdirt.com/2023/11/16/sarah-silvermans-ai-case-isnt-going-very-well-either/",
+            "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+            "publishedAt": "2023-11-16T18:49:00Z",
+            "content": "from the stop-trying-to-make-copyright-stop-ai dept\r\nJust a few weeks ago Judge William Orrick massively trimmed back the first big lawsuit that was filed against generative AI companies for training… [+2259 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Tanisha C. Ford",
+            "title": "How Netflix’s Rustin Creates a New Blueprint for Films About the Civil Rights Era",
+            "description": "Netflix's Bayard Rustin biopic puts the civil rights organizer’s genius in grassroots organizing on full display.",
+            "url": "https://time.com/6337107/bayard-rustin-civil-rights-organizing-blueprint-netflix/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/11/RSTN_20211217_23872_R_f.jpg?quality=85",
+            "publishedAt": "2023-11-17T22:40:18Z",
+            "content": "In a pivotal scene in Rustin, a biopic coming to Netflix on Nov. 17, organizer Bayard Rustin (Coleman Domingo) stares down his antagonist, Congressman Rev. Adam Clayton Powell Jr. (Jeffrey Wright). T… [+9007 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "mlabonne",
+            "title": "Large Language Model Course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. - GitHub - mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "url": "https://github.com/mlabonne/llm-course",
+            "urlToImage": "https://opengraph.githubassets.com/3d48c590079141e6e2bce01478ee42289d21d4dc676bbdec88853a45cff30ab9/mlabonne/llm-course",
+            "publishedAt": "2023-12-01T09:57:14Z",
+            "content": "Follow me on XBlogHands-on GNN\r\nThe LLM course is divided into three parts:\r\n<ol><li>LLM Fundamentals covers essential knowledge about mathematics, Python, and neural networks.</li><li>The LLM Scient… [+16273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Amazon.com"
+            },
+            "author": "aws@amazon.com",
+            "title": "Amazon Redshift announces integration with AWS Glue column-level statistics",
+            "description": "Amazon Redshift can now leverage the column-level statistics stored in AWS Glue Data Catalog to improve data lake query performance by generating optimized query plans.",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-integration-glue-column-statistics/",
+            "urlToImage": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+            "publishedAt": "2023-11-20T23:02:50Z",
+            "content": "Posted On: Nov 20, 2023\r\nAmazon Redshift can now leverage the column-level statistics stored in AWS Glue Data Catalog to improve data lake query performance by generating optimized query plans. \r\nAWS… [+1179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Amazon.com"
+            },
+            "author": "aws@amazon.com",
+            "title": "AWS Clean Rooms announces configurability for collaboration payment",
+            "description": "Today we are announcing a new capability for AWS Clean Rooms which provides customers the flexibility to choose the collaboration member responsible for the query compute costs in a collaboration. Collaboration creators can now configure payment responsibilit…",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2023/11/aws-clean-rooms-configurability-collaboration-payment/",
+            "urlToImage": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+            "publishedAt": "2023-11-14T19:51:35Z",
+            "content": "Today we are announcing a new capability for AWS Clean Rooms which provides customers the flexibility to choose the collaboration member responsible for the query compute costs in a collaboration. Co… [+643 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "ggerganov",
+            "title": "Running Llama.cpp on AWS Instances",
+            "description": "Description The llama.cpp project offers unique ways of utilizing cloud computing resources. Here we will demonstrate how to deploy a llama.cpp server on a AWS instance for serving quantum and full...",
+            "url": "https://github.com/ggerganov/llama.cpp/discussions/4225",
+            "urlToImage": "https://opengraph.githubassets.com/8339a5befd91d7eb903fd2ba10065f8562b03a81fdb108048bfa1eeffcabaf1c/ggerganov/llama.cpp/discussions/4225",
+            "publishedAt": "2023-11-27T20:15:22Z",
+            "content": "The llama.cpp project offers unique ways of utilizing cloud computing resources. Here we will demonstrate how to deploy a llama.cpp server on a AWS instance for serving quantum and full-precision F16… [+16241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sebastianraschka.com"
+            },
+            "author": "Sebastian Raschka, PhD",
+            "title": "Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)",
+            "description": "Things I Learned From Hundreds of Experiments",
+            "url": "https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfbd169-eb7e-41e1-a050-556ccd6fb679_1600x672.png",
+            "publishedAt": "2023-11-19T21:54:14Z",
+            "content": "Low-rank adaptation (LoRA) is among the most widely used and effective techniques for efficiently training custom LLMs. For those interested in open-source LLMs, it's an essential technique worth fam… [+20664 chars]"
+        }
+    ]
+}
