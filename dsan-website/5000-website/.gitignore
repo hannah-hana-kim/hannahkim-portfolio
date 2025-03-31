@@ -1,0 +1,6 @@
+/.quarto/
+_site/*
+5000-website_w:o_data.zip
+*.zip
+./data/*.csv
+./data/*.txt
