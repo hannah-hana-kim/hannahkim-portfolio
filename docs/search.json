@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "an Aspiring Data Scientist and Analyst · hk932@georgetown.edu\n\n\n\n\n\nHannah Kim\n\n\n\n\n\nHello! I am Hannah Kim, a graduate student at Georgetown University majoring in Masters of Science of Data Science and Analytics. I completed my undergraduate studies in Software Engineering with experiences in Java and C, and now pursuing to become a data scientist, analyst who can convey meaningful results to the audience. After graduating my undergrad, I worked at Medtronic Korea as a Technical User Support Analyst and not only did I gain technical skills in hardware field, but I also improved communication skills by meeting new people. After working for a year, I successfully made it to the United States in 2023! I am soon graduating from my master’s degree and I am looking for an exciting and professional challenge and am keen to continue my career. Outside of school, I love to go out and enjoy playing with my cats. I have two cats in my hometown: Pepper, Button, and kept Cabbage for approximately two months. Checkout my cats and see how cute they are!",
+    "text": "Data Scientist and Analyst · hk932@georgetown.edu\n\n\n\n\n\nHannah Kim\n\n\n\n\n\nHello! I am Hannah Kim, a graduate student at Georgetown University majoring in Masters of Science of Data Science and Analytics. I completed my undergraduate studies in Software Engineering with experiences in Java and C, and now pursuing to become a data scientist, analyst who can convey meaningful results to the audience. After graduating my undergrad, I worked at Medtronic Korea as a Technical User Support Analyst and not only did I gain technical skills in hardware field, but I also improved communication skills by meeting new people. After working for a year, I successfully made it to the United States in 2023! I am soon graduating from my master’s degree and I am looking for an exciting and professional challenge and am keen to continue my career. Outside of school, I love to go out and enjoy playing with my cats. I have two cats in my hometown: Pepper, Button, and kept Cabbage for approximately two months. Checkout my cats and see how cute they are!",
     "crumbs": [
       "About Me"
     ]
@@ -14,17 +14,7 @@
     "href": "index.html#hannah-kim",
     "title": "About Me",
     "section": "",
-    "text": "an Aspiring Data Scientist and Analyst · hk932@georgetown.edu\n\n\n\n\n\nHannah Kim\n\n\n\n\n\nHello! I am Hannah Kim, a graduate student at Georgetown University majoring in Masters of Science of Data Science and Analytics. I completed my undergraduate studies in Software Engineering with experiences in Java and C, and now pursuing to become a data scientist, analyst who can convey meaningful results to the audience. After graduating my undergrad, I worked at Medtronic Korea as a Technical User Support Analyst and not only did I gain technical skills in hardware field, but I also improved communication skills by meeting new people. After working for a year, I successfully made it to the United States in 2023! I am soon graduating from my master’s degree and I am looking for an exciting and professional challenge and am keen to continue my career. Outside of school, I love to go out and enjoy playing with my cats. I have two cats in my hometown: Pepper, Button, and kept Cabbage for approximately two months. Checkout my cats and see how cute they are!",
-    "crumbs": [
-      "About Me"
-    ]
-  },
-  {
-    "objectID": "index.html#my-cats",
-    "href": "index.html#my-cats",
-    "title": "About Me",
-    "section": "My Cats",
-    "text": "My Cats\n\n\n\n\n\nPepper\n\n\n\n\n\n\n\n\nButton\n\n\n\n\n\n\n\n\nCabbage",
+    "text": "Data Scientist and Analyst · hk932@georgetown.edu\n\n\n\n\n\nHannah Kim\n\n\n\n\n\nHello! I am Hannah Kim, a graduate student at Georgetown University majoring in Masters of Science of Data Science and Analytics. I completed my undergraduate studies in Software Engineering with experiences in Java and C, and now pursuing to become a data scientist, analyst who can convey meaningful results to the audience. After graduating my undergrad, I worked at Medtronic Korea as a Technical User Support Analyst and not only did I gain technical skills in hardware field, but I also improved communication skills by meeting new people. After working for a year, I successfully made it to the United States in 2023! I am soon graduating from my master’s degree and I am looking for an exciting and professional challenge and am keen to continue my career. Outside of school, I love to go out and enjoy playing with my cats. I have two cats in my hometown: Pepper, Button, and kept Cabbage for approximately two months. Checkout my cats and see how cute they are!",
     "crumbs": [
       "About Me"
     ]
@@ -45,6 +35,16 @@
     "title": "About Me",
     "section": "Education",
     "text": "Education\nGeorgetown University | Washington DC, USA\nMasters in Science in Data Science and Analytics | June, 2023 - May, 2025 \nGachon University | Gyeonggi, South Korea\nBachelor of Engineering, Majored in Software | Dean’s List (Fall, 2017) | Mar, 2016 - Feb, 2021",
+    "crumbs": [
+      "About Me"
+    ]
+  },
+  {
+    "objectID": "index.html#my-cats",
+    "href": "index.html#my-cats",
+    "title": "About Me",
+    "section": "My Cats",
+    "text": "My Cats\n\n\n\n\n\nPepper\n\n\n\n\n\n\n\n\nButton\n\n\n\n\n\n\n\n\nCabbage",
     "crumbs": [
       "About Me"
     ]
