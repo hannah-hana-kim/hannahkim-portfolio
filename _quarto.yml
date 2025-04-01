@@ -3,6 +3,12 @@ project:
   resources: 
     - "*.mp4"
 
+format:
+  html:
+    theme: lumen
+    toc: true
+    link-external-newwindow: true
+
 website:
   navbar: 
     search: true
@@ -14,9 +20,9 @@ website:
       - text: "Spotify Analysis"
         href: 5100_project_code.ipynb
       - text: "Popular TV Shows Analysis"
-        href: https://gu-dsan6000.github.io/fall-2024-project-team-34/intro.html
+        url: https://gu-dsan6000.github.io/fall-2024-project-team-34/intro.html
       - text: "Natural Bridges National Park Analysis"
-        href: https://pepperbutton.netlify.app
+        url: https://pepperbutton.netlify.app
   
     tools: 
       - icon: github
@@ -56,10 +62,4 @@ website:
 
   favicon: hannah_kim_free_logo.png
 
-format:
-  html:
-    theme: lumen
-    toc: true
 bibliography: references.bib
-
-
