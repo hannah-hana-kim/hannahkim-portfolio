@@ -9,10 +9,14 @@ website:
     left:
       - text: "About Me"
         href: index.ipynb
-      - text: "Data Science"
+      - text: "Threatened Species Analysis"
         href: introduction.ipynb
-      - text: "Prob. & Stats."
+      - text: "Spotify Analysis"
         href: 5100_project_code.ipynb
+      - text: "Popular TV Shows Analysis"
+        href: https://gu-dsan6000.github.io/fall-2024-project-team-34/intro.html
+      - text: "Natural Bridges National Park Analysis"
+        href: https://pepperbutton.netlify.app
   
     tools: 
       - icon: github
